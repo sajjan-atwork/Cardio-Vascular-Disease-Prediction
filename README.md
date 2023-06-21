@@ -1,1 +1,1 @@
-# cvd
+Cardiovascular Diseases (CVD's) are the most common and prevalent diseases in India as well as globally. This work is exclusively focused on statistical and data mining tools and techniques for CVD using echocardiography records. The following project will review the importance of echocardiography.
